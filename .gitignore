@@ -1,4 +1,12 @@
 notebooks/first.ipynb
 notebooks/second.ipynb
 notebooks/third.ipynb
+ALL_NOTEBOOKS.ipynb
+Team 1 - DL_SIC.pptx.pptx
 data/raw/Alice_Springs_2025.csv
+solar.ipynb
+mlflow.db
+models/mlruns
+models/AnomalyModel.ipynb
+models/anomaly_xgboost_model.pkl
+models/01_solar_sizing_mvp.ipynb
